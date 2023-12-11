@@ -14,7 +14,7 @@
         border-right:4px solid rgba(0, 247, 255, 0.87);
         width: 200px;
         display: grid;
-        height: 450px;
+        height: 430px;
         grid-template-columns: 1fr  1fr;
 
     }
